@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.exe
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.deps.json
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.dll
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.pdb
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.dll
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.pdb
+C:\Users\memme\Desktop\P225\Task\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.genruntimeconfig.cache
